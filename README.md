@@ -8,7 +8,7 @@ Hi there, I'm Meera Ramesh 👋
 I am a Software Engineer/Full Stack Developer 🚀 from NYC. I am proficient in both Frontend development and Backend development. 
 I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and PostgresSQL.
 I have dabbled and interested in Data Visualization tools such as PowerBI,Tableau. 
-As a software engineer, I am a lifelong learner who is dedicated to deliver solutions to improve efficiency and will deliver the best possible solutions for you.
+As a software engineer, I am a lifelong learner who is dedicated to deliver solutions.
 
 **Personal**
 
