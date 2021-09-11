@@ -1,6 +1,6 @@
 
 <div align="center">
-<a href="https://imgur.com/RtuPdDq"><img src="https://i.imgur.com/RtuPdDq.jpg" title="source: imgur.com" width="100%" height="40%"/></a>
+//<a href="https://imgur.com/RtuPdDq"><img src="https://i.imgur.com/RtuPdDq.jpg" title="source: imgur.com" width="100%" height="40%"/></a>
 </div>  
 
 
@@ -8,14 +8,14 @@ Hi there, I'm Meera Ramesh 👋
 I am a Software Engineer/Full Stack Developer 🚀 from NYC. I am proficient in both Frontend development and Backend development. 
 I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and PostgresSQL.
 I have dabbled and interested in Data Visualization tools such as PowerBI,Tableau. 
-As a software engineer, I am a lifelong learner who is dedicated to deliver solutions.
+
 
 **Personal**
 
 - 👩 I’m looking to work with companies that focus on supporting and lifting women
 - 📖 My portfolio can be found at [https://meeraramesh.com/](https://meeraramesh.com/)
 - 🌱 I am currently learning Javascript,nodejs,mongodb
-- 🌳 I am a volunteer at Empowerment Square helping with their website ne
+- 🌳 I am a volunteer at Empowerment Square revamping their website
 - 💻 I’m currently working as a Software Developer at 100Devs
 - 📄 Check out my resume[https://bit.ly/38Q6Br1](https://bit.ly/38Q6Br1)
 - ⚡ Fun fact I love baking and experimenting diy projects
