@@ -13,7 +13,7 @@ I have dabbled in Data Visualization tools such as PowerBI,Tableau.
 **Personal**
 
 - 👩 I’m looking to work with companies that focus on supporting and lifting women
-- 📖 My portfolio can be found at [https://meeraportfolio.netlify.app/](https://meeraportfolio.netlify.app/)
+- 📖 My portfolio can be found at [https://meeraramesh.dev/](https://meeraramesh.dev/)
 - 🌱 I am currently learning Javascript,nodejs,mongodb
 - 🌳 I am a volunteer at Empowerment Square revamping their website
 - 💻 I’m currently working as a Software Developer at 100Devs
