@@ -1,7 +1,7 @@
 
-<div align="center">
+<!-- <div align="center">
 //<a href="https://imgur.com/RtuPdDq"><img src="https://i.imgur.com/RtuPdDq.jpg" title="source: imgur.com" width="100%" height="40%"/></a>
-</div>  
+</div>   -->
 
 
 Hi there, I'm Meera Ramesh 👋 
