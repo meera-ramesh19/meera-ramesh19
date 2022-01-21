@@ -17,7 +17,7 @@ I have dabbled in Data Visualization tools such as PowerBI,Tableau.
 - 🌱 I am currently learning Javascript,nodejs,mongodb
 - 🌳 I am a volunteer at Empowerment Square revamping their website
 - 💻 I’m currently working as a Software Developer at 100Devs
-- 📄 Check out my resume[https://bit.ly/3D5IL7k](https://bit.ly/3D5IL7k)
+- 📄 Check out my resume[https://bit.ly/32lU6Uf](https://bit.ly/32lU6Uf)
 - ⚡ Fun fact I love baking and experimenting diy projects
 
 
