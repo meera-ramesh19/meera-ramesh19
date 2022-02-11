@@ -25,7 +25,7 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 
 
 
-
+Glad to see you here![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/meera-ramesh19)
 
 
 ## My Skill Set  
@@ -91,7 +91,7 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
   
   
   
-Thank you for viewing my profile![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/meera-ramesh19)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meera-ramesh19&show_icons=true&locale=en&layout=compact" alt="meera-ramesh19" /></p>
 
