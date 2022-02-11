@@ -24,7 +24,9 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 - ⚡ Fun fact I enjoy being creative, experimenting with new projects(baking, diy)to bring to fruition
 
 
-Glad to see you here ![Visitor Count](https://profile-counter.glitch.me/{meera-ramesh19}/count.svg)
+Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/meera-ramesh19)
+
+
 
 
 
