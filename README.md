@@ -24,8 +24,6 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 - ⚡ Fun fact I enjoy being creative, experimenting with new projects(baking, diy)to bring to fruition
 
 
-Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/meera-ramesh19)
-
 
 
 
@@ -90,6 +88,10 @@ Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=h
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
   
+  
+  
+  
+#### Thank you for viewing my profile ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/meera-ramesh19)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meera-ramesh19&show_icons=true&locale=en&layout=compact" alt="meera-ramesh19" /></p>
 
