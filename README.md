@@ -103,9 +103,6 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 
 
 
-
-
-
 Thanks for checking out ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/meera-ramesh19)
 
 
