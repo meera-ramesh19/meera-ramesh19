@@ -24,7 +24,7 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 - ⚡ Fun fact I enjoy being creative, experimenting with new projects(baking, diy)to bring to fruition
 
 
-Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=meera-ramesh19)
+Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=meera-ramesh19.meera-ramesh19.md)
 
 
 ## My Skill Set  
