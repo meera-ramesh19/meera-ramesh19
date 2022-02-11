@@ -3,8 +3,11 @@
 //<a href="https://imgur.com/RtuPdDq"><img src="https://i.imgur.com/RtuPdDq.jpg" title="source: imgur.com" width="100%" height="40%"/></a>
 </div>   -->
 
+🍀### WELCOME 🍀
 
-Hi there, I'm Meera Ramesh 👋 
+####
+Hi there 👋, 🌼 I'm Meera Ramesh  🌼
+
 I am a Software Engineer proficient in Full Stack Web Development,and Data Visualization tools like Tableau and Power BI 🚀 from NYC. I am passionate about learning and curiosity has been a part of me forever.  
 My experiences in and outside of working with nonprofits in addition to design consulting, have given me the analytical skills and curiosity to bring in creative problem solving when learning and using code. 
 I am currently completing the Pursuit Fellowship in an effort to improve my skills as a software engineer. I am excited to be a part of a community where I can collaborate with and learn from other developers.
@@ -15,10 +18,10 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 - 👩 I’m looking to work with companies that focus on supporting and lifting women
 - 📖 My portfolio can be found at [https://meeraramesh.dev/](https://meeraramesh.dev/)
 - 🌱 I am currently learning Javascript,nodejs,mongodb
-- 🌳 I am a volunteer at Empowerment Square revamping their website
+- 🌳 I volunteered at Empowerment Square revamping their website
 - 💻 I’m currently working as a Software Developer at 100Devs
 - 📄 Check out my resume[https://bit.ly/32lU6Uf](https://bit.ly/3D5IL7k)
-- ⚡ Fun fact I love baking and experimenting diy projects
+- ⚡ Fun fact I enjoy being creative, experimenting with new projects(baking, diy)to bring to fruition
 
 
 ## My Skill Set  
