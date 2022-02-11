@@ -3,10 +3,10 @@
 //<a href="https://imgur.com/RtuPdDq"><img src="https://i.imgur.com/RtuPdDq.jpg" title="source: imgur.com" width="100%" height="40%"/></a>
 </div>   -->
 
-🍀### WELCOME 🍀
+### 🍀 WELCOME 🍀
 
 ####
-Hi there 👋, 🌼 I'm Meera Ramesh  🌼
+Hi there 👋, #### I'm Meera Ramesh 
 
 I am a Software Engineer proficient in Full Stack Web Development,and Data Visualization tools like Tableau and Power BI 🚀 from NYC. I am passionate about learning and curiosity has been a part of me forever.  
 My experiences in and outside of working with nonprofits in addition to design consulting, have given me the analytical skills and curiosity to bring in creative problem solving when learning and using code. 
