@@ -5,7 +5,7 @@
 
 
 Hi there, I'm Meera Ramesh 👋 
-I am a Software Engineer/Full Stack Developer 🚀 from NYC, passionate about learning and curiosity has been a part of me forever. I am a software engineer proficient in Full Stack Web Development, and Data Visualization tools like Tableau and Power BI. 
+I am a Software Engineer proficient in Full Stack Web Development,and Data Visualization tools like Tableau and Power BI 🚀 from NYC. I am passionate about learning and curiosity has been a part of me forever.  
 My experiences in and outside of working with nonprofits in addition to design consulting, have given me the analytical skills and curiosity to bring in creative problem solving when learning and using code. 
 I am currently completing the Pursuit Fellowship in an effort to improve my skills as a software engineer. I am excited to be a part of a community where I can collaborate with and learn from other developers.
 
