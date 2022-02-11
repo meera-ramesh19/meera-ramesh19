@@ -25,7 +25,7 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 
 
 
-Glad to see you here![visitors](https://visitor-badge.glitch.me/badge?page_id=meera-ramesh19.https://github.com/meera-ramesh19)
+Glad to see you here![visitors](https://visitor-badge.glitch.me/badge?page_id='https://github.com/meera-ramesh19')
 
 
 ## My Skill Set  
