@@ -3,7 +3,7 @@
 //<a href="https://imgur.com/RtuPdDq"><img src="https://i.imgur.com/RtuPdDq.jpg" title="source: imgur.com" width="100%" height="40%"/></a>
 </div>   -->
 
-### 🍀 WELCOME 🍀
+### 🍀 WELCOME USER ![](https://komarev.com/ghpvc/?username=your-github-username&color=red) 🍀
 
 
 #### Hi there 👋, I'm Meera Ramesh 
@@ -103,7 +103,7 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 
 
 
-Thanks for checking out ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/meera-ramesh19)
+
 
 
 
