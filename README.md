@@ -4,7 +4,7 @@
 </div>   -->
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meera-ramesh19&label=Profile%20views&color=ce9927&style=flat" alt="meera-ramesh19" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=meera-ramesh19&label=Profile%20views&color=red&style=flat" alt="meera-ramesh19" /> </p> 
 
 ### 🍀 WELCOME 🍀
 #### Hi there 👋, I'm Meera Ramesh 
