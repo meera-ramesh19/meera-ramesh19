@@ -3,9 +3,10 @@
 //<a href="https://imgur.com/RtuPdDq"><img src="https://i.imgur.com/RtuPdDq.jpg" title="source: imgur.com" width="100%" height="40%"/></a>
 </div>   -->
 
-### 🍀 WELCOME USER <p align="center"> <img src="https://komarev.com/ghpvc/?username=meera-ramesh19&label=Profile%20views&color=ce9927&style=flat" alt="meera-ramesh19" /> </p> 🍀
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=meera-ramesh19&label=Profile%20views&color=ce9927&style=flat" alt="meera-ramesh19" /> </p> 
 
+### 🍀 WELCOME 🍀
 #### Hi there 👋, I'm Meera Ramesh 
 
 I am a Software Engineer proficient in Full Stack Web Development,and Data Visualization tools like Tableau and Power BI 🚀 from NYC. I am passionate about learning and curiosity has been a part of me forever.  
