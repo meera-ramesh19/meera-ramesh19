@@ -21,8 +21,8 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 - 👩 I’m looking to work with companies that focus on supporting and lifting women
 - 📖 My portfolio can be found at [https://meeraramesh.dev/](https://meeraramesh.dev/)
 - 🌱 I am currently learning Javascript,nodejs,mongodb
-- 🌳 I volunteered at Empowerment Square revamping their website
-- 💻 I’m currently working as a Software Developer at 100Devs
+- 🌳 I love to collaborate with other developers to learn and grow
+- 💻 I’m currently completing the Pursuit fellowship to improve my skills
 - 📄 Check out my resume[https://bit.ly/32lU6Uf](https://bit.ly/3D5IL7k)
 - ⚡ Fun fact I enjoy being creative, experimenting with new projects(baking, diy)to bring to fruition
 
