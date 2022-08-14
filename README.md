@@ -2,7 +2,7 @@
 <!-- <div align="center">/<a href="https://imgur.com/RtuPdDq"><img src="https://i.imgur.com/RtuPdDq.jpg" title="source: imgur.com" width="100%" height="40%"/></a>
 </div>   -->
 
-![Meera Ramesh](<img src="6pvz0z.gif")
+![Meera Ramesh](<img src="6pvz0z.gif"/>)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meera-ramesh19&label=Profile%20views&color=red&style=flat" alt="meera-ramesh19" /> </p> 
 
 ### 🍀 WELCOME 🍀
