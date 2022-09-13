@@ -34,6 +34,7 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 - [https://reactghibliapi.netlify.app](https://reactghibliapi.netlify.app) React and JS App
 - [https://minivideotubeapp.netlify.app](https://minivideotubeapp.netlify.app) React and JS App
 - [https://travelapppics.herokuapp.com/](https://travelapppics.herokuapp.com/) MongoDB, EJS, EXpress & Nodejs App
+- [https://paintapp-challenge.netlify.app](https://paintapp-challenge.netlify.app) A JS app for mintbean Hackathon using Canvas API
 - [https://weather-app-wttr.netlify.app](https://weather-app-wttr.netlify.app) JS App using API's
 - [https://pairilyrecipe.netlify.app](https://pairilyrecipe.netlify.app) - JS  App using 3 API's
 - [https://photo-learnabitseries.netlify.app](https://photo-learnabitseries.netlify.app) static HTML & CSS App
