@@ -30,10 +30,13 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 - [https://stockwatchinvesting.netlify.app](https://stockwatchinvesting.netlify.app)  PERN stack App
 - [https://snacks-log.netlify.app](https://snacks-log.netlify.app)  PERN stack App
 - [https://tuner-sql-api.netlify.app](https://tuner-sql-api.netlify.app) PERN stack App
-- [https://trackerluxe-react.netlify.app](https://trackerluxe-react.netlify.app) PERN stack App
+- [https://trackerluxe-react.netlify.app](https://trackerluxe-react.netlify.app) MERN stack App
 - [https://reactghibliapi.netlify.app](https://reactghibliapi.netlify.app) React and JS App
 - [https://minivideotubeapp.netlify.app](https://minivideotubeapp.netlify.app) React and JS App
-- [https://weather-app-wttr.netlify.app](https://weather-app-wttr.netlify.app) JS App
+- [https://travelapppics.herokuapp.com/](https://travelapppics.herokuapp.com/) MongoDB, EJS, EXpress & Nodejs App
+- [https://weather-app-wttr.netlify.app](https://weather-app-wttr.netlify.app) JS App using API's
+- [https://pairilyrecipe.netlify.app](https://pairilyrecipe.netlify.app) - JS  App using 3 API's
+- [https://photo-learnabitseries.netlify.app](https://photo-learnabitseries.netlify.app) static HTML & CSS App
 
 
 ## My Skill Set  
