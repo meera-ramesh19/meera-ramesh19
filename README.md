@@ -22,7 +22,7 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 - 🌱 I am currently learning Javascript,nodejs,mongodb
 - 🌳 I love to collaborate with other developers to learn and grow
 - 💻 I’m currently completing the Pursuit fellowship to improve my skills
-- 📄 Check out my resume[https://bit.ly/32lU6Uf](https://bit.ly/3D5IL7k)
+- 📄 Check out my resume[https://bit.ly/3qy5K6O](https://bit.ly/3qy5K6O)
 - ⚡ Fun fact I enjoy being creative, experimenting with new projects(baking, diy)to bring to fruition
 
 
