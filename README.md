@@ -27,13 +27,13 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 
 ### Projects Links
 
-- [https://stockwatchinvesting.netlify.app](https://stockwatchinvesting.netlify.app)
-- [https://snacks-log.netlify.app](https://snacks-log.netlify.app)
-- [https://tuner-sql-api.netlify.app](https://tuner-sql-api.netlify.app)
-- [https://trackerluxe-react.netlify.app](https://trackerluxe-react.netlify.app)
-- [https://reactghibliapi.netlify.app](https://reactghibliapi.netlify.app)
-- [https://minivideotubeapp.netlify.app](https://minivideotubeapp.netlify.app)
-- [https://weather-app-wttr.netlify.app](https://weather-app-wttr.netlify.app)
+- [https://stockwatchinvesting.netlify.app](https://stockwatchinvesting.netlify.app)  PERN stack App
+- [https://snacks-log.netlify.app](https://snacks-log.netlify.app)  PERN stack App
+- [https://tuner-sql-api.netlify.app](https://tuner-sql-api.netlify.app) PERN stack App
+- [https://trackerluxe-react.netlify.app](https://trackerluxe-react.netlify.app) PERN stack App
+- [https://reactghibliapi.netlify.app](https://reactghibliapi.netlify.app) React and JS App
+- [https://minivideotubeapp.netlify.app](https://minivideotubeapp.netlify.app) React and JS App
+- [https://weather-app-wttr.netlify.app](https://weather-app-wttr.netlify.app) JS App
 
 
 ## My Skill Set  
