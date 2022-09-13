@@ -25,15 +25,15 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 - 📄 Check out my resume[https://bit.ly/3BaUthL](https://bit.ly/3BaUthL)
 - ⚡ Fun fact I enjoy being creative, experimenting with new projects(baking, diy)to bring to fruition
 
-## Notable Projects
+### Projects Links
 
-[https://stockwatchinvesting.netlify.app](https://stockwatchinvesting.netlify.app)
-[https://snacks-log.netlify.app](https://snacks-log.netlify.app)
-[https://tuner-sql-api.netlify.app](https://tuner-sql-api.netlify.app)
-[https://trackerluxe-react.netlify.app](https://trackerluxe-react.netlify.app)
-[https://reactghibliapi.netlify.app](https://reactghibliapi.netlify.app)
-[https://minivideotubeapp.netlify.app](https://minivideotubeapp.netlify.app)
-[https://weather-app-wttr.netlify.app](https://weather-app-wttr.netlify.app)
+: [https://stockwatchinvesting.netlify.app](https://stockwatchinvesting.netlify.app)
+: [https://snacks-log.netlify.app](https://snacks-log.netlify.app)
+: [https://tuner-sql-api.netlify.app](https://tuner-sql-api.netlify.app)
+: [https://trackerluxe-react.netlify.app](https://trackerluxe-react.netlify.app)
+: [https://reactghibliapi.netlify.app](https://reactghibliapi.netlify.app)
+: [https://minivideotubeapp.netlify.app](https://minivideotubeapp.netlify.app)
+: [https://weather-app-wttr.netlify.app](https://weather-app-wttr.netlify.app)
 
 
 ## My Skill Set  
