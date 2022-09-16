@@ -30,7 +30,7 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 - [https://stockwatchinvesting.netlify.app](https://stockwatchinvesting.netlify.app)  PERN stack App
 - [https://snacks-log.netlify.app](https://snacks-log.netlify.app)  PERN stack App
 - [https://tuner-sql-api.netlify.app](https://tuner-sql-api.netlify.app) PERN stack App
-- [https://budgetapp-tracker.netlify.app](https://budgetapp-tracker.netlify.app) MERN stack App
+- [https://trackerluxe.netlify.app](https://trackerluxe.netlify.app) MERN stack App
 - [https://reactghibliapi.netlify.app](https://reactghibliapi.netlify.app) React and JS App
 - [https://minivideotubeapp.netlify.app](https://minivideotubeapp.netlify.app) React and JS App
 - [https://travelapppics.herokuapp.com/](https://travelapppics.herokuapp.com/) MongoDB, EJS, EXpress & Nodejs App
