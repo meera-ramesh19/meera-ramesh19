@@ -34,7 +34,7 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 <table>
 <tr>
 <td width="50%">
-<h3 align="center" color="white">Animal Crossing App</h2>
+<h3 align="center" color="white">Stock Watch App</h2>
 <div align="center" >
 <a href='[https://stockwatchinvesting.netlify.app/](https://stockwatchinvesting.netlify.app/)'>
 </a>
@@ -56,7 +56,7 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 <p><strong>PERN stack, D3.JS Python Beautifulsoup</strong> - A PERN app develped by scraping data using python and performing CRUD to be able to chart the data using D3.JS. Implemented system design</p>
 </div>
 
-<h3 align="center" color="white">MarioKart Racer Picker</h2>
+<h3 align="center" color="white">Ghibli World App </h2>
 <div align="center" >
 <a href='[https://github.com/meera-ramesh19/react-ghibli-app-8-3-module-three-assessment](https://github.com/meera-ramesh19/react-ghibli-app-8-3-module-three-assessment)'>
 </a>
