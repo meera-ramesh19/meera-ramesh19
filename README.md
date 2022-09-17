@@ -58,7 +58,7 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 
 <h3 align="center" color="white">Ghibli World App </h2>
 <div align="center" >
-<a href='[https://github.com/meera-ramesh19/react-ghibli-app-8-3-module-three-assessment](https://github.com/meera-ramesh19/react-ghibli-app-8-3-module-three-assessment)'>
+<a href='[https://reactghibliapi.netlify.app/](https://reactghibliapi.netlify.app/)'>
 </a>
 
 [https://user-images.githubusercontent.com/46873861/190858311-db4288e7-3934-4a54-8501-eef614aa4ef7.gif](https://user-images.githubusercontent.com/46873861/190858311-db4288e7-3934-4a54-8501-eef614aa4ef7.gif)
@@ -66,11 +66,11 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 <br>
 <br>
 <p>
-<a href="[https://reactghibliapi.netlify.app/](https://reactghibliapi.netlify.app/)" target="_blank">
+<a href="[https://github.com/meera-ramesh19/react-ghibli-app-8-3-module-three-assessment](https://github.com/meera-ramesh19/react-ghibli-app-8-3-module-three-assessment)" target="_blank">
 
 <img src="[https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github](https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github)"/>
 
-<a href="[https://github.com/meera-ramesh19/react-ghibli-app-8-3-module-three-assessment](https://github.com/meera-ramesh19/react-ghibli-app-8-3-module-three-assessment)" target="_blank">
+<a href="[https://reactghibliapi.netlify.app/](https://reactghibliapi.netlify.app/)" target="_blank">
 <img src="[https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67](https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67)"/>
 </a>
 </p>
