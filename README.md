@@ -123,6 +123,52 @@ https://user-images.githubusercontent.com/46873861/190863893-03235807-4748-4f3a-
 <p><strong>JavaScript, CSS3, HTML5, React</strong> - Creating a student dashboard using class components to learn the flow in react</p>
 </div>
 </td>
+
+<td width="50%">
+<h3 align="center" color="white">Weather App using wttr API</h2>
+<div align="center" >
+<a href='[https://wttrweatherapp.netlify.app/]'>
+</a>
+
+
+[https://user-images.githubusercontent.com/46873861/190873746-40cc3d85-c435-43b8-bdad-2d602f0b94fb.mp4](https://user-images.githubusercontent.com/46873861/190873746-40cc3d85-c435-43b8-bdad-2d602f0b94fb.mp4)
+
+<br>
+<br>
+<p>
+<a href="[https://github.com/meera-ramesh19/8-3-weather-app-project](https://github.com/meera-ramesh19/8-3-weather-app-project)" target="_blank">
+
+<img src="[https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github](https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github)"/>
+
+<a href="[https://wttrweatherapp.netlify.app/](https://wttrweatherapp.netlify.app/)" target="_blank">
+<img src="[https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67](https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67)"/>
+</a>
+</p>
+<p><strong>HTML, CSS, JS using API/strong> - A JS project using wttr API to check the weather around the world.It also has a temperature convertor widget for  users using different metrics. Using local storage the users can view their previous searches and they can remove each search or clear all of them.</p>
+<p> Improvements to be made is to add an hourly button so users can view the weather hour by hour</p>
+</div>
+
+<h3 align="center" color="white">React Dashboard App </h2>
+<div align="center" >
+<a href='[https://paintapp-challenge.netlify.app/mypaintapp/canvas.html]'>
+</a>
+
+[https://user-images.githubusercontent.com/46873861/190875018-600e1d88-9ef7-4619-9951-39bbcd3ff5b1.mp4](https://user-images.githubusercontent.com/46873861/190875018-600e1d88-9ef7-4619-9951-39bbcd3ff5b1.mp4)
+
+<br>
+<br>
+<p>
+<a href="[https://github.com/meera-ramesh19/mintbean-hackathon](https://github.com/meera-ramesh19/mintbean-hackathon)" target="_blank">
+
+<img src="[https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github](https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github)"/>
+
+<a href="[https://paintapp-challenge.netlify.app/mypaintapp/canvas.html](https://paintapp-challenge.netlify.app/mypaintapp/canvas.html)" target="_blank">
+<img src="[https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67](https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67)"/>
+</a>
+</p>
+<p><strong>JavaScript, CSS3, HTML5, React</strong> - Creating a student dashboard using class components to learn the flow in react</p>
+</div>
+</td>
 </tr>
 </table>
 
@@ -135,8 +181,8 @@ https://user-images.githubusercontent.com/46873861/190863893-03235807-4748-4f3a-
 - [https://trackerluxe.netlify.app](https://trackerluxe.netlify.app) MERN stack App
 - [https://minivideotubeapp.netlify.app](https://minivideotubeapp.netlify.app) React and JS App
 - [https://travelapppics.herokuapp.com/](https://travelapppics.herokuapp.com/) MongoDB, EJS, EXpress & Nodejs App
-- [https://paintapp-challenge.netlify.app](https://paintapp-challenge.netlify.app) A JS app for mintbean Hackathon using Canvas API
-- [https://weather-app-wttr.netlify.app](https://weather-app-wttr.netlify.app) JS App using API's
+
+
 
 
 ## My Skill Set  
