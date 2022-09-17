@@ -39,7 +39,15 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 <a href='[https://stockwatchinvesting.netlify.app/](https://stockwatchinvesting.netlify.app/)'>
 </a>
 
-[https://user-images.githubusercontent.com/46873861/190857501-773a1e1d-a874-46d2-a1b6-82c44455ee44.gif](https://user-images.githubusercontent.com/46873861/190857501-773a1e1d-a874-46d2-a1b6-82c44455ee44.gif)
+[https://user-images.githubusercontent.com/46873861/190861446-13f87e30-25b7-4a3c-82df-086c2fba5ca5.mp4](https://user-images.githubusercontent.com/46873861/190861446-13f87e30-25b7-4a3c-82df-086c2fba5ca5.mp4)
+
+
+
+
+https://user-images.githubusercontent.com/46873861/190861446-13f87e30-25b7-4a3c-82df-086c2fba5ca5.mp4
+
+
+
 
 
 <br>
@@ -61,7 +69,7 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 <a href='[https://reactghibliapi.netlify.app/](https://reactghibliapi.netlify.app/)'>
 </a>
 
-[https://user-images.githubusercontent.com/46873861/190858311-db4288e7-3934-4a54-8501-eef614aa4ef7.gif](https://user-images.githubusercontent.com/46873861/190858311-db4288e7-3934-4a54-8501-eef614aa4ef7.gif)
+[https://user-images.githubusercontent.com/46873861/190859851-da860939-af0f-4464-b1a1-45b1136ac6e8.mp4](https://user-images.githubusercontent.com/46873861/190859851-da860939-af0f-4464-b1a1-45b1136ac6e8.mp4)
 
 <br>
 <br>
