@@ -39,7 +39,7 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 <a href='[https://stockwatchinvesting.netlify.app/](https://stockwatchinvesting.netlify.app/)'>
 </a>
 
-[https://user-images.githubusercontent.com/46873861/190857501-773a1e1d-a874-46d2-a1b6-82c44455ee44.gif]((https://user-images.githubusercontent.com/46873861/190857501-773a1e1d-a874-46d2-a1b6-82c44455ee44.gif)
+[https://user-images.githubusercontent.com/46873861/190857501-773a1e1d-a874-46d2-a1b6-82c44455ee44.gif](https://user-images.githubusercontent.com/46873861/190857501-773a1e1d-a874-46d2-a1b6-82c44455ee44.gif)
 
 
 <br>
