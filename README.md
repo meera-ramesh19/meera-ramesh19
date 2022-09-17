@@ -81,53 +81,54 @@ https://user-images.githubusercontent.com/46873861/190863257-32702d5e-6ce8-4611-
 </p>
 <p><strong>JavaScript, CSS3, HTML5, React</strong> - Using Ghibli API , this project displays information about people , movies, vehicles, species and locations where users can hide/show and can sort by name, climate and terrain</p>
 </div>
+
+
+
 </td>
 <td width="50%">
 <h3 align="center" color="white">Stock Watch App</h2>
 <div align="center" >
-<a href='[https://stockwatchinvesting.netlify.app/](https://stockwatchinvesting.netlify.app/)'>
+<a href='[https://snacks-log.netlify.app/)'>
 </a>
 
 
-
-
-
-[https://user-images.githubusercontent.com/46873861/190857501-773a1e1d-a874-46d2-a1b6-82c44455ee44.gif](https://user-images.githubusercontent.com/46873861/190857501-773a1e1d-a874-46d2-a1b6-82c44455ee44.gif)
+[https://user-images.githubusercontent.com/46873861/190863893-03235807-4748-4f3a-adff-9ef93e8a9dae.mp4](
+https://user-images.githubusercontent.com/46873861/190863893-03235807-4748-4f3a-adff-9ef93e8a9dae.mp4)
 
 
 <br>
 <br>
 <p>
-<a href="[https://github.com/meera-ramesh19/PersonalProject](https://github.com/meera-ramesh19/PersonalProject)" target="_blank">
+<a href="[https://github.com/meera-ramesh19/groupproject-snack-a-log](https://github.com/meera-ramesh19/groupproject-snack-a-log)" target="_blank">
 
 <img src="[https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github](https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github)"/>
 
-<a href="[https://stockwatchinvesting.netlify.app/](https://stockwatchinvesting.netlify.app/)" target="_blank">
+<a href="[https://snacks-log.netlify.app/](https://snacks-log.netlify.app/)" target="_blank">
 <img src="[https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67](https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67)"/>
 </a>
 </p>
-<p><strong>PERN stack, D3.JS Python Beautifulsoup</strong> - A PERN app develped by scraping data using python and performing CRUD to be able to chart the data using D3.JS. Implemented system design</p>
+<p><strong>PERN stack</strong> - A PERN app to perform CRUD for snacks</p>
 </div>
 
 <h3 align="center" color="white">Ghibli World App </h2>
 <div align="center" >
-<a href='[https://reactghibliapi.netlify.app/](https://reactghibliapi.netlify.app/)'>
+<a href='[https://react-student-dashboard-app.netlify.app/]'>
 </a>
 
-[https://user-images.githubusercontent.com/46873861/190858311-db4288e7-3934-4a54-8501-eef614aa4ef7.gif](https://user-images.githubusercontent.com/46873861/190858311-db4288e7-3934-4a54-8501-eef614aa4ef7.gif)
+[https://user-images.githubusercontent.com/46873861/190865422-67a55a78-43aa-44b4-8702-04ae7326913e.mp4](https://user-images.githubusercontent.com/46873861/190865422-67a55a78-43aa-44b4-8702-04ae7326913e.mp4)
 
 <br>
 <br>
 <p>
-<a href="[https://github.com/meera-ramesh19/react-ghibli-app-8-3-module-three-assessment](https://github.com/meera-ramesh19/react-ghibli-app-8-3-module-three-assessment)" target="_blank">
+<a href="[https://github.com/meera-ramesh19/8-3-react-student-dashboard](https://github.com/meera-ramesh19/8-3-react-student-dashboard)" target="_blank">
 
 <img src="[https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github](https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github)"/>
 
-<a href="[https://reactghibliapi.netlify.app/](https://reactghibliapi.netlify.app/)" target="_blank">
+<a href="[https://react-student-dashboard-app.netlify.app/](https://react-student-dashboard-app.netlify.app/)" target="_blank">
 <img src="[https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67](https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67)"/>
 </a>
 </p>
-<p><strong>JavaScript, CSS3, HTML5, React</strong> - Using Ghibli API , this project displays information about people , movies, vehicles, species and locations where users can hide/show and can sort by name, climate and terrain</p>
+<p><strong>JavaScript, CSS3, HTML5, React</strong> - Creating a student dashboard using class components to learn the flow in react</p>
 </div>
 </td>
 </tr>
@@ -137,15 +138,13 @@ https://user-images.githubusercontent.com/46873861/190863257-32702d5e-6ce8-4611-
 ### Projects Links
 
 
-- [https://snacks-log.netlify.app](https://snacks-log.netlify.app)  PERN stack App
+
 - [https://tuner-sql-api.netlify.app](https://tuner-sql-api.netlify.app) PERN stack App
 - [https://trackerluxe.netlify.app](https://trackerluxe.netlify.app) MERN stack App
 - [https://minivideotubeapp.netlify.app](https://minivideotubeapp.netlify.app) React and JS App
 - [https://travelapppics.herokuapp.com/](https://travelapppics.herokuapp.com/) MongoDB, EJS, EXpress & Nodejs App
 - [https://paintapp-challenge.netlify.app](https://paintapp-challenge.netlify.app) A JS app for mintbean Hackathon using Canvas API
 - [https://weather-app-wttr.netlify.app](https://weather-app-wttr.netlify.app) JS App using API's
-- [https://pairilyrecipe.netlify.app](https://pairilyrecipe.netlify.app) - JS  App using 3 API's
-- [https://photo-learnabitseries.netlify.app](https://photo-learnabitseries.netlify.app) static HTML & CSS App
 
 
 ## My Skill Set  
