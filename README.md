@@ -27,7 +27,7 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 
 
 
-!-- PROJECTS -->
+<-- PROJECTS -->
 
 <h2 align="center" color="white">Projects</h2>
 <div align="center">
@@ -175,6 +175,8 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 	</table>
 </div>
 <br />
+
+
 
 
 
