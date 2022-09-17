@@ -26,154 +26,155 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 - ⚡ Fun fact I enjoy being creative, experimenting with new projects(baking, diy)to bring to fruition
 
 
-<h2 align="center">Highlighted Projects </h2>
+
+!-- PROJECTS -->
+
+<h2 align="center" color="white">Projects</h2>
 <div align="center">
-<table>
-<tr>
-<td width="50%">
+	<table>
+		<tr>
+			<!--project 1 -->
+			<td width="50%">
+				<h3 align="center" color="white">Stock Watch App.</h2>
+				<div align="center" >
+					<a href="https://stockwatchinvesting.netlify.app/">
+						<img src="https://user-images.githubusercontent.com/46873861/190863257-32702d5e-6ce8-4611-a2a3-c5f1e53d914d.mp4" alt="An app that generates charts" />
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo -->
+						<a href='https://github.com/meera-ramesh19/PersonalProject'>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>
+                        <!--live site -->
+						<a href="https://stockwatchinvesting.netlify.app/">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+						</a>
+					</p>
+					<p><strong>Python, D3.JS, PERN stack</strong>A PERN app develped by scraping data using python and performing CRUD to be able to chart the data using D3.JS. Implemented system design </p>
+				</div>
 
-|<h3 align="center" color="white">Stock Watch App</h2>
-<div align="center" >
-<a href='[https://stockwatchinvesting.netlify.app/](https://stockwatchinvesting.netlify.app/)'>
-</a>
+			<!--project 2 -->
+			<td width="50%">
+				<h3 align="center" color="white">GhibliAPI App </h2>
+				<div align="center" >
+					<a href="https://reactghibliapi.netlify.app/">
+						<img src="https://user-images.githubusercontent.com/46873861/190859851-da860939-af0f-4464-b1a1-45b1136ac6e8.mp4" alt="a site tracking COVID-19 statistics" height="200px" />
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo -->
+						<a href='https://github.com/meera-ramesh19/react-ghibli-app-8-3-module-three-assessment'>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>
+                        <!--live site -->
+						<a href="https://reactghibliapi.netlify.app/">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+						</a>
+					</p>
+					<p><strong>React, JS, HTML, CSS (API)</strong>Using Ghibli API , this project displays information about people , movies, vehicles, species and locations where users can hide/show and can sort by name, climate and terrain</p>
+				</div>
+			</td>
+		<tr>
 
-[https://user-images.githubusercontent.com/46873861/190863257-32702d5e-6ce8-4611-a2a3-c5f1e53d914d.mp4](https://user-images.githubusercontent.com/46873861/190863257-32702d5e-6ce8-4611-a2a3-c5f1e53d914d.mp4)
+			<!--project 3 -->
+			<td width="50%">
+				<h3 align="center" color="white">Weather App</h2>
+				<div align="center" >
+					<a href="https://wttrweatherapp.netlify.app/">
+						<img src="https://user-images.githubusercontent.com/46873861/190863893-03235807-4748-4f3a-adff-9ef93e8a9dae.mp4" alt="Weather App with previous search history and temp convertor widget" height="200px" />
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo -->
+						<a href='ttps://github.com/meera-ramesh19/8-3-weather-app-project'>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>
+                        <!--live site -->
+						<a href="https://wttrweatherapp.netlify.app/">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+						</a>
+					</p>
+					<p><strong>HTML, CSS, JS using API/strong> - A JS project using wttr API to check the weather around the world.It also has a temperature convertor widget for  users using different metrics. Using local storage the users can view their previous searches and they can remove each search or clear all of them.</p><p> Improvements to be made is to add an hourly button so users can view the weather hour by hour</p>>
+				</div>
+			
 
-<br>
-<br>
-<p>
-<a href="[https://github.com/meera-ramesh19/PersonalProject](https://github.com/meera-ramesh19/PersonalProject)" target="_blank">
-
-<img src="[https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github](https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github)"/>
-
-<a href="[https://stockwatchinvesting.netlify.app/](https://stockwatchinvesting.netlify.app/)" target="_blank">
-<img src="[https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67](https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67)"/>
-</a>
-</p>
-<p><strong>PERN stack, D3.JS Python Beautifulsoup</strong> - A PERN app develped by scraping data using python and performing CRUD to be able to chart the data using D3.JS. Implemented system design</p>
-</div>
-
-<h3 align="center" color="white">Ghibli World App </h2>
-<div align="center" >
-<a href='[https://reactghibliapi.netlify.app/](https://reactghibliapi.netlify.app/)'>
-</a>
-
-[https://user-images.githubusercontent.com/46873861/190859851-da860939-af0f-4464-b1a1-45b1136ac6e8.mp4](https://user-images.githubusercontent.com/46873861/190859851-da860939-af0f-4464-b1a1-45b1136ac6e8.mp4)
-
-<br>
-<br>
-<p>
-<a href="[https://github.com/meera-ramesh19/react-ghibli-app-8-3-module-three-assessment](https://github.com/meera-ramesh19/react-ghibli-app-8-3-module-three-assessment)" target="_blank">
-
-<img src="[https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github](https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github)"/>
-
-<a href="[https://reactghibliapi.netlify.app/](https://reactghibliapi.netlify.app/)" target="_blank">
-<img src="[https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67](https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67)"/>
-</a>
-</p>
-<p><strong>JavaScript, CSS3, HTML5, React</strong> - Using Ghibli API , this project displays information about people , movies, vehicles, species and locations where users can hide/show and can sort by name, climate and terrain</p>
-</div>
- 
-
- 
- <tr>
- 
-<td width="50%">
-<h3 align="center" color="white">Weather App using wttr API</h2>
-<div align="center" >
-<a href='[[https://wttrweatherapp.netlify.app/](https://wttrweatherapp.netlify.app/)]'>
-</a>
-
-[https://user-images.githubusercontent.com/46873861/190873746-40cc3d85-c435-43b8-bdad-2d602f0b94fb.mp4](https://user-images.githubusercontent.com/46873861/190873746-40cc3d85-c435-43b8-bdad-2d602f0b94fb.mp4)
-
-<br>
-<br>
-<p>
-<a href="[https://github.com/meera-ramesh19/8-3-weather-app-project](https://github.com/meera-ramesh19/8-3-weather-app-project)" target="_blank">
-
-<img src="[https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github](https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github)"/>
-
-<a href="[https://wttrweatherapp.netlify.app/](https://wttrweatherapp.netlify.app/)" target="_blank">
-<img src="[https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67](https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67)"/>
-</a>
-</p>
-<p><strong>HTML, CSS, JS using API/strong> - A JS project using wttr API to check the weather around the [world.It](http://world.it/) also has a temperature convertor widget for  users using different metrics. Using local storage the users can view their previous searches and they can remove each search or clear all of them.</p>
-<p> Improvements to be made is to add an hourly button so users can view the weather hour by hour</p>
-</div>
-
-
-<h3 align="center" color="white">Snack App </h2>
-<div align="center" >
-<a href='[[https://snacks-log.netlify.app/](https://snacks-log.netlify.app/))'>
-</a>
-
-[https://user-images.githubusercontent.com/46873861/190863893-03235807-4748-4f3a-adff-9ef93e8a9dae.mp4](https://user-images.githubusercontent.com/46873861/190863893-03235807-4748-4f3a-adff-9ef93e8a9dae.mp4)
-
-<br>
-<br>
-<p>
-<a href="[https://github.com/meera-ramesh19/groupproject-snack-a-log](https://github.com/meera-ramesh19/groupproject-snack-a-log)" target="_blank">
-
-<img src="[https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github](https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github)"/>
-
-<a href="[https://snacks-log.netlify.app/](https://snacks-log.netlify.app/)" target="_blank">
-<img src="[https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67](https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67)"/>
-</a>
-</p>
-<p><strong>PERN stack</strong> - A PERN app to perform CRUD for snacks< list. A heart is filled if the snack is healthy, has enough fiber and  enough protein. If not healthy then an outline of the heart is displayed</p>
-</div>
- 
- 
- 
- <tr>
-  <td width="50%">
-
-<h3 align="center" color="white">React Dashboard App </h2>
-<div align="center" >
-<a href='[[https://react-student-dashboard-app.netlify.app/](https://react-student-dashboard-app.netlify.app/)]'>
-</a>
-
-[https://user-images.githubusercontent.com/46873861/190865422-67a55a78-43aa-44b4-8702-04ae7326913e.mp4](https://user-images.githubusercontent.com/46873861/190865422-67a55a78-43aa-44b4-8702-04ae7326913e.mp4)
-
-<br>
-<br>
-<p>
-<a href="[https://github.com/meera-ramesh19/8-3-react-student-dashboard](https://github.com/meera-ramesh19/8-3-react-student-dashboard)" target="_blank">
-
-<img src="[https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github](https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github)"/>
-
-<a href="[https://react-student-dashboard-app.netlify.app/](https://react-student-dashboard-app.netlify.app/)" target="_blank">
-<img src="[https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67](https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67)"/>
-</a>
-</p>
-<p><strong>JavaScript, CSS3, HTML5, React</strong> - Creating a student dashboard using class components to learn the flow in react</p>
-</div>
- 
-
-<h3 align="center" color="white">Canvas Paint App </h2>
-<div align="center" >
-<a href='[[https://paintapp-challenge.netlify.app/mypaintapp/canvas.html](https://paintapp-challenge.netlify.app/mypaintapp/canvas.html)]'>
-</a>
-
-[https://user-images.githubusercontent.com/46873861/190875018-600e1d88-9ef7-4619-9951-39bbcd3ff5b1.mp4](https://user-images.githubusercontent.com/46873861/190875018-600e1d88-9ef7-4619-9951-39bbcd3ff5b1.mp4)
-
-<br>
-<br>
-<p>
-<a href="[https://github.com/meera-ramesh19/mintbean-hackathon](https://github.com/meera-ramesh19/mintbean-hackathon)" target="_blank">
-
-<img src="[https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github](https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github)"/>
-
-<a href="[https://paintapp-challenge.netlify.app/mypaintapp/canvas.html](https://paintapp-challenge.netlify.app/mypaintapp/canvas.html)" target="_blank">
-<img src="[https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67](https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67)"/>
-</a>
-</p>
-<p><strong>JavaScript, CSS3, HTML5, React</strong> - Creating a student dashboard using class components to learn the flow in react</p>
-</div> 
-
+			<!--project 4 -->
+			<td width="50%">
+				<h3 align="center" color="white">SNACKS APP</h2>
+				<div align="center" >
+					<a href="https://snacks-log.netlify.app/">
+						<img src="https://user-images.githubusercontent.com/46873861/190863893-03235807-4748-4f3a-adff-9ef93e8a9dae.mp4" alt="full stack app for healthy snacks"/>
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo -->
+						<a href='https://github.com/meera-ramesh19/groupproject-snack-a-log'>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>
+                        <!--live site -->
+						<a href="https://snacks-log.netlify.app/">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+						</a>
+					</p>
+					<p><strong>PERN stack</strong> - A PERN app to perform CRUD for snacks< list. A heart is filled if the snack is healthy, has enough fiber and  enough protein. If not healthy then an outline of the heart is displayed</p>
+				</div>
 </td>
+<tr>
+			<!--project 5 -->
+			<td width="50%">
+				<h3 align="center" color="white">Student Dashboard</h2>
+				<div align="center" >
+					<a href="https://react-student-dashboard-app.netlify.app/">
+						<img src="https://user-images.githubusercontent.com/46873861/190865422-67a55a78-43aa-44b4-8702-04ae7326913e.mp4" alt="An app to learn the control flow of react class components" />
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo -->
+						<a href='https://github.com/meera-ramesh19/8-3-react-student-dashboard'>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>
+                        <!--live site -->
+						<a href="https://react-student-dashboard-app.netlify.app/">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+						</a>
+					</p>
+					<p><strong>JavaScript, CSS3, HTML5, React</strong> - Creating a student dashboard using class components to learn the flow in react </p>
+				</div>
 
-</table>
+			<!--project 6 -->
+			<td width="50%">
+				<h3 align="center" color="white">Mintbean Hackathon Paint App</h2>
+				<div align="center" >
+					<a href="https://paintapp-challenge.netlify.app/mypaintapp/canvas.html">
+						<img src="https://user-images.githubusercontent.com/46873861/190875018-600e1d88-9ef7-4619-9951-39bbcd3ff5b1.mp4" alt="a paintapp for a hackathon challenge" height="200px" />
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo -->
+						<a href='https://github.com/meera-ramesh19/mintbean-hackathon"'>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>
+                        <!--live site -->
+						<a href="https://paintapp-challenge.netlify.app/mypaintapp/canvas.html">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+						</a>
+					</p>
+					<p><strong>JavaScript, CSS3, HTML5,Canvas API</strong> Created a paint app for mintbean community hackathon in a week</p>
+				</div>
+			
+		
+
+
+	</table>
+</div>
+<br />
 
 
  
