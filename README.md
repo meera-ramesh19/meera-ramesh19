@@ -77,6 +77,8 @@ https://user-images.githubusercontent.com/46873861/190863257-32702d5e-6ce8-4611-
 <p><strong>JavaScript, CSS3, HTML5, React</strong> - Using Ghibli API , this project displays information about people , movies, vehicles, species and locations where users can hide/show and can sort by name, climate and terrain</p>
 </div>
 </td>
+ 
+ 
 <td width="50%">
 <h3 align="center" color="white">Snack App </h2>
 <div align="center" >
@@ -97,7 +99,7 @@ https://user-images.githubusercontent.com/46873861/190863893-03235807-4748-4f3a-
 <img src="[https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67](https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67)"/>
 </a>
 </p>
-<p><strong>PERN stack</strong> - A PERN app to perform CRUD for snacks< list. A heart is filled if the snack is healthy, has enough fiber and  enough protein. If not healthy then an outline of the heart is displayed/p>
+<p><strong>PERN stack</strong> - A PERN app to perform CRUD for snacks< list. A heart is filled if the snack is healthy, has enough fiber and  enough protein. If not healthy then an outline of the heart is displayed</p>
 </div>
 
 <h3 align="center" color="white">React Dashboard App </h2>
