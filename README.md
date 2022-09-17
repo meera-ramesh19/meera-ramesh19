@@ -32,7 +32,7 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 <h2 align="center">Highlighted Projects </h2>
 <div align="center">
 <table>
-<tr>
+
 <td width="50%">
 <h3 align="center" color="white">Stock Watch App</h2>
 <div align="center" >
@@ -78,8 +78,7 @@ https://user-images.githubusercontent.com/46873861/190863257-32702d5e-6ce8-4611-
 </div>
 </td>
  
- </tr>
- <tr>
+
 <td width="50%">
 <h3 align="center" color="white">Snack App </h2>
 <div align="center" >
@@ -124,8 +123,7 @@ https://user-images.githubusercontent.com/46873861/190863893-03235807-4748-4f3a-
 <p><strong>JavaScript, CSS3, HTML5, React</strong> - Creating a student dashboard using class components to learn the flow in react</p>
 </div>
 </td>
-</tr>
- <tr>
+
 <td width="50%">
 <h3 align="center" color="white">Weather App using wttr API</h2>
 <div align="center" >
@@ -171,7 +169,7 @@ https://user-images.githubusercontent.com/46873861/190863893-03235807-4748-4f3a-
 <p><strong>JavaScript, CSS3, HTML5, React</strong> - Creating a student dashboard using class components to learn the flow in react</p>
 </div>
 </td>
-</tr>
+
 </table>
 
 
