@@ -74,7 +74,7 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 <p><strong>JavaScript, CSS3, HTML5, React</strong> - Using Ghibli API , this project displays information about people , movies, vehicles, species and locations where users can hide/show and can sort by name, climate and terrain</p>
 </div>
  
- 
+
  
  <tr>
  
@@ -123,7 +123,7 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 <p><strong>PERN stack</strong> - A PERN app to perform CRUD for snacks< list. A heart is filled if the snack is healthy, has enough fiber and  enough protein. If not healthy then an outline of the heart is displayed</p>
 </div>
  
-  </td>
+ 
  
  <tr>
   <td width="50%">
@@ -149,8 +149,8 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 <p><strong>JavaScript, CSS3, HTML5, React</strong> - Creating a student dashboard using class components to learn the flow in react</p>
 </div>
  
-</td>
-<h3 align="center" color="white">React Dashboard App </h2>
+
+<h3 align="center" color="white">Canvas Paint App </h2>
 <div align="center" >
 <a href='[[https://paintapp-challenge.netlify.app/mypaintapp/canvas.html](https://paintapp-challenge.netlify.app/mypaintapp/canvas.html)]'>
 </a>
