@@ -42,14 +42,6 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 [https://user-images.githubusercontent.com/46873861/190861446-13f87e30-25b7-4a3c-82df-086c2fba5ca5.mp4](https://user-images.githubusercontent.com/46873861/190861446-13f87e30-25b7-4a3c-82df-086c2fba5ca5.mp4)
 
 
-
-
-https://user-images.githubusercontent.com/46873861/190861446-13f87e30-25b7-4a3c-82df-086c2fba5ca5.mp4
-
-
-
-
-
 <br>
 <br>
 <p>
