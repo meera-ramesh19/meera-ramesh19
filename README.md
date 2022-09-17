@@ -165,78 +165,8 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 <!-- </td>
 
 </table> -->
-<h2 align="center">Highlighted Projects </h2>
-<div align="center">
 
-|section1 | |section 2|
 
-|:—————-:|:————-:|
-
-|Stock Watch App. |Ghibli World App |
-
-|<a href=’[https://stockwatchinvesting.netlify.app/]'>
- </a>|<a href='[https://reactghibliapi.netlify.app/]'>
-</a>|
-
-|[[https://user-images.githubusercontent.com/46873861/190863257-32702d5e-6ce8-4611-a2a3-c5f1e53d914d.mp4](https://user-images.githubusercontent.com/46873861/190863257-32702d5e-6ce8-4611-a2a3-c5f1e53d914d.mp4)]([https://user-images.githubusercontent.com/46873861/190863257-32702d5e-6ce8-4611-a2a3-c5f1e53d914d.mp4](https://user-images.githubusercontent.com/46873861/190863257-32702d5e-6ce8-4611-a2a3-c5f1e53d914d.mp4))|[https://user-images.githubusercontent.com/46873861/190859851-da860939-af0f-4464-b1a1-45b1136ac6e8.mp4](https://user-images.githubusercontent.com/46873861/190859851-da860939-af0f-4464-b1a1-45b1136ac6e8.mp4)]([https://user-images.githubusercontent.com/46873861/190859851-da860939-af0f-4464-b1a1-45b1136ac6e8.mp4](https://user-images.githubusercontent.com/46873861/190859851-da860939-af0f-4464-b1a1-45b1136ac6e8.mp4)])|
-
-|<a href="[https://github.com/meera-ramesh19/PersonalProject](https://github.com/meera-ramesh19/PersonalProject)" target="_blank"></a>|<a href="[https://github.com/meera-ramesh19/react-ghibli-app-8-3-module-three-assessment](https://github.com/meera-ramesh19/react-ghibli-app-8-3-module-three-assessment)" target="_blank"></a> |
-
-> | <img src="[https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github](https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github)"/>|  <img src="[https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github](https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github)"/> |
-> 
-
-|<a href="[https://stockwatchinvesting.netlify.app/](https://stockwatchinvesting.netlify.app/)" target="_blank"><img src="[https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67](https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67)"/>
-</a>|.  
-
-<a href="[https://reactghibliapi.netlify.app/](https://reactghibliapi.netlify.app/)" target="_blank"><img src="[https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67](https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67)"/>
-</a>|
-
-|<p><strong>PERN stack, D3.JS Python Beautifulsoup</strong> - A PERN app develped by scraping data using python and performing CRUD to be able to chart the data using D3.JS. Implemented system design</p>|<p><strong>JavaScript, CSS3, HTML5, React</strong> - Using Ghibli API , this project displays information about people , movies, vehicles, species and locations where users can hide/show and can sort by name, climate and terrain</p>|
-
-|Weather App. | Snacks Log App |
-
-|<a href='[[https://wttrweatherapp.netlify.app/](https://wttrweatherapp.netlify.app/)]'>
-</a>|<a href='[[https://snacks-log.netlify.app/](https://snacks-log.netlify.app/)]'>
-</a>|
-
-|[[https://user-images.githubusercontent.com/46873861/190863893-03235807-4748-4f3a-adff-9ef93e8a9dae.mp4](https://user-images.githubusercontent.com/46873861/190863893-03235807-4748-4f3a-adff-9ef93e8a9dae.mp4)]([https://user-images.githubusercontent.com/46873861/190863893-03235807-4748-4f3a-adff-9ef93e8a9dae.mp4](https://user-images.githubusercontent.com/46873861/190863893-03235807-4748-4f3a-adff-9ef93e8a9dae.mp4)) |   [[https://user-images.githubusercontent.com/46873861/190863893-03235807-4748-4f3a-adff-9ef93e8a9dae.mp4](https://user-images.githubusercontent.com/46873861/190863893-03235807-4748-4f3a-adff-9ef93e8a9dae.mp4)]([https://user-images.githubusercontent.com/46873861/190863893-03235807-4748-4f3a-adff-9ef93e8a9dae.mp4](https://user-images.githubusercontent.com/46873861/190863893-03235807-4748-4f3a-adff-9ef93e8a9dae.mp4))|
-
-|<a href="[https://github.com/meera-ramesh19/8-3-weather-app-project](https://github.com/meera-ramesh19/8-3-weather-app-project)" target="_blank"></a>|<a href="[https://github.com/meera-ramesh19/react-ghibli-app-8-3-module-three-assessment](https://github.com/meera-ramesh19/react-ghibli-app-8-3-module-three-assessment)" target="_blank"></a> |
-
-> | <img src="[https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github](https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github)"/>|  <img src="[https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github](https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github)"/> |
-> 
-
-|<a href="[https://wttrweatherapp.netlify.app/](https://wttrweatherapp.netlify.app/)" target="_blank"><img src="[https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67](https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67)"/>
-</a>|.  
-
-<a href="[https://snacks-log.netlify.app/](https://snacks-log.netlify.app/)" target="_blank"><img src="[https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67](https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67)"/>
-</a>|
-
-|<p><strong>HTML, CSS, JS using API/strong> - A JS project using wttr API to check the weather around the [world.It](http://world.it/) also has a temperature convertor widget for  users using different metrics. Using local storage the users can view their previous searches and they can remove each search or clear all of them.</p><p> Improvements to be made is to add an hourly button so users can view the weather hour by hour</p>|<p><strong>PERN stack</strong> - A PERN app to perform CRUD for snacks< list. A heart is filled if the snack is healthy, has enough fiber and  enough protein. If not healthy then an outline of the heart is displayed</p>|
-
-|Student Dashboard App|mintbean hackathon PaintApp|
-
-|<a href='[[https://react-student-dashboard-app.netlify.app/](https://react-student-dashboard-app.netlify.app/)]'>
-</a>|<a href='[[https://paintapp-challenge.netlify.app/mypaintapp/canvas.html](https://paintapp-challenge.netlify.app/mypaintapp/canvas.html)]'>
-</a>|
-
-|[https://user-images.githubusercontent.com/46873861/190865422-67a55a78-43aa-44b4-8702-04ae7326913e.mp4](https://user-images.githubusercontent.com/46873861/190865422-67a55a78-43aa-44b4-8702-04ae7326913e.mp4)| [https://user-images.githubusercontent.com/46873861/190875018-600e1d88-9ef7-4619-9951-39bbcd3ff5b1.mp4](https://user-images.githubusercontent.com/46873861/190875018-600e1d88-9ef7-4619-9951-39bbcd3ff5b1.mp4)|
-
-|<a href="[https://github.com/meera-ramesh19/8-3-react-student-dashboard](https://github.com/meera-ramesh19/8-3-react-student-dashboard)" target="_blank"></a>|
-<a href="[https://github.com/meera-ramesh19/mintbean-hackathon](https://github.com/meera-ramesh19/mintbean-hackathon)" target="_blank"></a>|
-
-|<img src="[https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github](https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github)"/>|<img src="[https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github](https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github)"/>**|**
-
-|<a href="[https://react-student-dashboard-app.netlify.app/](https://react-student-dashboard-app.netlify.app/)" target="_blank">
-<img src="[https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67](https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67)"/>
-</a>|.<a href="[https://paintapp-challenge.netlify.app/mypaintapp/canvas.html](https://paintapp-challenge.netlify.app/mypaintapp/canvas.html)" target="_blank">
-<img src="[https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67](https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67)"/>
-</a> |
-
-|<p><strong>JavaScript, CSS3, HTML5, React</strong> - Creating a student dashboard using class components to learn the flow in react</p>|<p><strong>JavaScript, CSS3, HTML5,Canvas API</strong> Created a paint app for mintbean community hackathon in a week</p>|
- 
- </div>
- </div>
  
 ### Projects Links
 
