@@ -31,10 +31,11 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 
 <h2 align="center">Highlighted Projects </h2>
 <div align="center">
-<table>
+<!-- <table> -->
 
-<td width="50%">
-<h3 align="center" color="white">Stock Watch App</h2>
+<!-- <td width="50%"> -->
+|section1 | |section 2|
+|<h3 align="center" color="white">Stock Watch App</h2>
 <div align="center" >
 <a href='[https://stockwatchinvesting.netlify.app/](https://stockwatchinvesting.netlify.app/)'>
 </a>
@@ -76,10 +77,33 @@ https://user-images.githubusercontent.com/46873861/190863257-32702d5e-6ce8-4611-
 </p>
 <p><strong>JavaScript, CSS3, HTML5, React</strong> - Using Ghibli API , this project displays information about people , movies, vehicles, species and locations where users can hide/show and can sort by name, climate and terrain</p>
 </div>
-</td>
- 
+<!-- <td width="50%"> -->
+<h3 align="center" color="white">Weather App using wttr API</h2>
+<div align="center" >
+<a href='[https://wttrweatherapp.netlify.app/]'>
+</a>
 
-<td width="50%">
+
+[https://user-images.githubusercontent.com/46873861/190873746-40cc3d85-c435-43b8-bdad-2d602f0b94fb.mp4](https://user-images.githubusercontent.com/46873861/190873746-40cc3d85-c435-43b8-bdad-2d602f0b94fb.mp4)
+
+<br>
+<br>
+<p>
+<a href="[https://github.com/meera-ramesh19/8-3-weather-app-project](https://github.com/meera-ramesh19/8-3-weather-app-project)" target="_blank">
+
+<img src="[https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github](https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github)"/>
+
+<a href="[https://wttrweatherapp.netlify.app/](https://wttrweatherapp.netlify.app/)" target="_blank">
+<img src="[https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67](https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67)"/>
+</a>
+</p>
+<p><strong>HTML, CSS, JS using API/strong> - A JS project using wttr API to check the weather around the world.It also has a temperature convertor widget for  users using different metrics. Using local storage the users can view their previous searches and they can remove each search or clear all of them.</p>
+<p> Improvements to be made is to add an hourly button so users can view the weather hour by hour</p>
+</div>
+ |
+
+|
+
 <h3 align="center" color="white">Snack App </h2>
 <div align="center" >
 <a href='[https://snacks-log.netlify.app/)'>
@@ -122,33 +146,8 @@ https://user-images.githubusercontent.com/46873861/190863893-03235807-4748-4f3a-
 </p>
 <p><strong>JavaScript, CSS3, HTML5, React</strong> - Creating a student dashboard using class components to learn the flow in react</p>
 </div>
-</td>
-
-<td width="50%">
-<h3 align="center" color="white">Weather App using wttr API</h2>
-<div align="center" >
-<a href='[https://wttrweatherapp.netlify.app/]'>
-</a>
-
-
-[https://user-images.githubusercontent.com/46873861/190873746-40cc3d85-c435-43b8-bdad-2d602f0b94fb.mp4](https://user-images.githubusercontent.com/46873861/190873746-40cc3d85-c435-43b8-bdad-2d602f0b94fb.mp4)
-
-<br>
-<br>
-<p>
-<a href="[https://github.com/meera-ramesh19/8-3-weather-app-project](https://github.com/meera-ramesh19/8-3-weather-app-project)" target="_blank">
-
-<img src="[https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github](https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github)"/>
-
-<a href="[https://wttrweatherapp.netlify.app/](https://wttrweatherapp.netlify.app/)" target="_blank">
-<img src="[https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67](https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67)"/>
-</a>
-</p>
-<p><strong>HTML, CSS, JS using API/strong> - A JS project using wttr API to check the weather around the world.It also has a temperature convertor widget for  users using different metrics. Using local storage the users can view their previous searches and they can remove each search or clear all of them.</p>
-<p> Improvements to be made is to add an hourly button so users can view the weather hour by hour</p>
-</div>
-
-<h3 align="center" color="white">React Dashboard App </h2>
+<!-- </td> -->
+ <h3 align="center" color="white">React Dashboard App </h2>
 <div align="center" >
 <a href='[https://paintapp-challenge.netlify.app/mypaintapp/canvas.html]'>
 </a>
@@ -168,9 +167,13 @@ https://user-images.githubusercontent.com/46873861/190863893-03235807-4748-4f3a-
 </p>
 <p><strong>JavaScript, CSS3, HTML5, React</strong> - Creating a student dashboard using class components to learn the flow in react</p>
 </div>
-</td>
+|
 
-</table>
+
+
+<!-- </td>
+
+</table> -->
 
 
 ### Projects Links
