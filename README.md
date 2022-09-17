@@ -77,6 +77,51 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 <p><strong>JavaScript, CSS3, HTML5, React</strong> - Using Ghibli API , this project displays information about people , movies, vehicles, species and locations where users can hide/show and can sort by name, climate and terrain</p>
 </div>
 </td>
+<td width="50%">
+<h3 align="center" color="white">Stock Watch App</h2>
+<div align="center" >
+<a href='[https://stockwatchinvesting.netlify.app/](https://stockwatchinvesting.netlify.app/)'>
+</a>
+
+[https://user-images.githubusercontent.com/46873861/190857501-773a1e1d-a874-46d2-a1b6-82c44455ee44.gif](https://user-images.githubusercontent.com/46873861/190857501-773a1e1d-a874-46d2-a1b6-82c44455ee44.gif)
+
+
+<br>
+<br>
+<p>
+<a href="[https://github.com/meera-ramesh19/PersonalProject](https://github.com/meera-ramesh19/PersonalProject)" target="_blank">
+
+<img src="[https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github](https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github)"/>
+
+<a href="[https://stockwatchinvesting.netlify.app/](https://stockwatchinvesting.netlify.app/)" target="_blank">
+<img src="[https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67](https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67)"/>
+</a>
+</p>
+<p><strong>PERN stack, D3.JS Python Beautifulsoup</strong> - A PERN app develped by scraping data using python and performing CRUD to be able to chart the data using D3.JS. Implemented system design</p>
+</div>
+
+<h3 align="center" color="white">Ghibli World App </h2>
+<div align="center" >
+<a href='[https://reactghibliapi.netlify.app/](https://reactghibliapi.netlify.app/)'>
+</a>
+
+[https://user-images.githubusercontent.com/46873861/190858311-db4288e7-3934-4a54-8501-eef614aa4ef7.gif](https://user-images.githubusercontent.com/46873861/190858311-db4288e7-3934-4a54-8501-eef614aa4ef7.gif)
+
+<br>
+<br>
+<p>
+<a href="[https://github.com/meera-ramesh19/react-ghibli-app-8-3-module-three-assessment](https://github.com/meera-ramesh19/react-ghibli-app-8-3-module-three-assessment)" target="_blank">
+
+<img src="[https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github](https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github)"/>
+
+<a href="[https://reactghibliapi.netlify.app/](https://reactghibliapi.netlify.app/)" target="_blank">
+<img src="[https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67](https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67)"/>
+</a>
+</p>
+<p><strong>JavaScript, CSS3, HTML5, React</strong> - Using Ghibli API , this project displays information about people , movies, vehicles, species and locations where users can hide/show and can sort by name, climate and terrain</p>
+</div>
+</td>
+</tr>
 </table>
 
 
