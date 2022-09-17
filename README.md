@@ -38,14 +38,8 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 <div align="center" >
 <a href='[https://stockwatchinvesting.netlify.app/](https://stockwatchinvesting.netlify.app/)'>
 </a>
-
-
-
-
-
 [https://user-images.githubusercontent.com/46873861/190863257-32702d5e-6ce8-4611-a2a3-c5f1e53d914d.mp4](
 https://user-images.githubusercontent.com/46873861/190863257-32702d5e-6ce8-4611-a2a3-c5f1e53d914d.mp4)
-
 
 <br>
 <br>
@@ -81,9 +75,6 @@ https://user-images.githubusercontent.com/46873861/190863257-32702d5e-6ce8-4611-
 </p>
 <p><strong>JavaScript, CSS3, HTML5, React</strong> - Using Ghibli API , this project displays information about people , movies, vehicles, species and locations where users can hide/show and can sort by name, climate and terrain</p>
 </div>
-
-
-
 </td>
 <td width="50%">
 <h3 align="center" color="white">Snack App </h2>
@@ -91,10 +82,8 @@ https://user-images.githubusercontent.com/46873861/190863257-32702d5e-6ce8-4611-
 <a href='[https://snacks-log.netlify.app/)'>
 </a>
 
-
 [https://user-images.githubusercontent.com/46873861/190863893-03235807-4748-4f3a-adff-9ef93e8a9dae.mp4](
 https://user-images.githubusercontent.com/46873861/190863893-03235807-4748-4f3a-adff-9ef93e8a9dae.mp4)
-
 
 <br>
 <br>
