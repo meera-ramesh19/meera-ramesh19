@@ -39,7 +39,12 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 <a href='[https://stockwatchinvesting.netlify.app/](https://stockwatchinvesting.netlify.app/)'>
 </a>
 
-[https://user-images.githubusercontent.com/46873861/190861446-13f87e30-25b7-4a3c-82df-086c2fba5ca5.mp4](https://user-images.githubusercontent.com/46873861/190861446-13f87e30-25b7-4a3c-82df-086c2fba5ca5.mp4)
+
+
+
+
+[https://user-images.githubusercontent.com/46873861/190863257-32702d5e-6ce8-4611-a2a3-c5f1e53d914d.mp4](
+https://user-images.githubusercontent.com/46873861/190863257-32702d5e-6ce8-4611-a2a3-c5f1e53d914d.mp4)
 
 
 <br>
@@ -82,6 +87,10 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 <div align="center" >
 <a href='[https://stockwatchinvesting.netlify.app/](https://stockwatchinvesting.netlify.app/)'>
 </a>
+
+
+
+
 
 [https://user-images.githubusercontent.com/46873861/190857501-773a1e1d-a874-46d2-a1b6-82c44455ee44.gif](https://user-images.githubusercontent.com/46873861/190857501-773a1e1d-a874-46d2-a1b6-82c44455ee44.gif)
 
