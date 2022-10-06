@@ -42,7 +42,7 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
   <td width="16.667%">
    <h3 align="center">Stock Watch</h3>
    <p align="center">
-<a href='#'> <img src="https://user-images.githubusercontent.com/46873861/190863257-32702d5e-6ce8-4611-a2a3-c5f1e53d914d.mp4" alt="An app that generates charts" /></a>
+  <a href='#'><img src="https://github.com/meera-ramesh19/trackerLuxe/blob/main/Stockwatch.gif" alt="An app that generates charts" /></a>
             <p align="center">
              <strong>Python, D3.JS, PERN stack</strong>A PERN app develped by scraping data using python and performing CRUD to be able to chart the data using D3.JS. Implemented system design
    </p>
@@ -63,7 +63,7 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
   <td width="16.667%">
   <h3 align="center">Weather API</h3>
   <p align="center">
- <a href='#'><img src="https://user-images.githubusercontent.com/46873861/190863893-03235807-4748-4f3a-adff-9ef93e8a9dae.mp4" alt="Weather App with previous search history and temp convertor widget"/></a>
+  <a href='#'><img src="https://user-images.githubusercontent.com/46873861/190863893-03235807-4748-4f3a-adff-9ef93e8a9dae.mp4" alt="Weather App with previous search history and temp convertor widget"/>
   </a>
   <p align="center">
 <strong>HTML, CSS, JS using API/strong> - A JS project using wttr API to check the weather around the world. It also has a temperature convertor widget for  users using different metrics. Using local storage the users can view their previous searches and they can remove each search or clear all of them.
@@ -73,7 +73,7 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
  <td width="16.667%">
   <h3 align="center">Snacks</h3>
   <p align="center">
-  <a href='#'><img src="https://user-images.githubusercontent.com/46873861/190863893-03235807-4748-4f3a-adff-9ef93e8a9dae.mp4" alt="full stack app for healthy snacks"/></a>
+   <a href='#'><img src="https://user-images.githubusercontent.com/46873861/190863893-03235807-4748-4f3a-adff-9ef93e8a9dae.mp4" alt="full stack app for healthy snacks"/></a>
   <p align="center">
    <strong>PERN stack</strong> - A PERN app to perform CRUD for snacks< list. A heart is filled if the snack is healthy, has enough fiber and  enough protein. If not healthy then an outline of the heart is displayed
   </p>
@@ -85,14 +85,15 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
    <h3 align="center">Student Dashboard</h3>
    <p align="center">
 <a href='#'><img src="https://user-images.githubusercontent.com/46873861/190865422-67a55a78-43aa-44b4-8702-04ae7326913e.mp4" alt="An app to learn the control flow of react class components" /></a>
- <p align="center"><strong>JavaScript, CSS3, HTML5, React</strong> - Creating a student dashboard using class components to learn the flow in react
+           <p align="center"><strong>JavaScript, CSS3, HTML5, React</strong> - Creating a student dashboard using class components to learn the flow in react
+            
  </p>
   </p>
  </td>
 <td width="16.667%">
 <h3 align="center">MintBean Hackathon Paint App</h3>
 <p align="center">
-<a href='#'><img src="https://user-images.githubusercontent.com/46873861/190875018-600e1d88-9ef7-4619-9951-39bbcd3ff5b1.mp4" alt="a paintapp for a hackathon challenge"/> </a>
+ <a href='#'><img src="https://user-images.githubusercontent.com/46873861/190875018-600e1d88-9ef7-4619-9951-39bbcd3ff5b1.mp4" alt="a paintapp for a hackathon challenge"/>  </a>
 <p align="center">
  <strong>JavaScript, CSS3, HTML5,Canvas API</strong> Created a paint app for mintbean community hackathon in a week
   </p>
