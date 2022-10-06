@@ -29,7 +29,7 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 
 
 
-
+----
 
  
 ### Projects Links	
@@ -87,21 +87,23 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 	<img src="https://user-images.githubusercontent.com/46873861/190865422-67a55a78-43aa-44b4-8702-04ae7326913e.mp4" alt="An app to learn the control flow of react class components" />
            <p align="center"><strong>JavaScript, CSS3, HTML5, React</strong> - Creating a student dashboard using class components to learn the flow in react
             
-            </p>
-          </p>
-        </td>
-       <td width="16.667%">
-          <h3 align="center">MintBean Hackathon Paint App</h3>
-          <p align="center">
+ </p>
+  </p>
+ </td>
+<td width="16.667%">
+<h3 align="center">MintBean Hackathon Paint App</h3>
+<p align="center">
 <img src="https://user-images.githubusercontent.com/46873861/190875018-600e1d88-9ef7-4619-9951-39bbcd3ff5b1.mp4" alt="a paintapp for a hackathon challenge"/>  
 <p align="center">
-            <strong>JavaScript, CSS3, HTML5,Canvas API</strong> Created a paint app for mintbean community hackathon in a week
-            </p>
-          </p>
-        </td>
-      </tr>
-      </table>
+ <strong>JavaScript, CSS3, HTML5,Canvas API</strong> Created a paint app for mintbean community hackathon in a week
+  </p>
+  </p>
+</td>
+</tr>
+</table>
  </div>
+ 
+---
 
 - [https://tuner-sql-api.netlify.app](https://tuner-sql-api.netlify.app) PERN stack App
 - [https://trackerluxe.netlify.app](https://trackerluxe.netlify.app) MERN stack App
