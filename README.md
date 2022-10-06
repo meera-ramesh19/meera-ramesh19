@@ -34,7 +34,149 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
  
 ### Projects Links
 
+<h2 align="center">Highlighted Projects </h2>
 
+<div align="center">
+  <table>
+      <tr>
+        <td width="16.667%">
+          <h3 align="center">Stock Watch</h3>
+          <p align="center">
+             <img src="https://user-images.githubusercontent.com/46873861/190863257-32702d5e-6ce8-4611-a2a3-c5f1e53d914d.mp4" alt="Stock Watch"/> </a>
+           
+          </p>
+          <p>
+                        <!--repo -->
+						<a href='https://github.com/meera-ramesh19/PersonalProject'>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>
+                        <!--live site -->
+						<a href="https://stockwatchinvesting.netlify.app/">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+						</a>
+					</p>
+          <p align="center">
+              A PERN app develped by scraping data using python and performing CRUD to be able to chart the data using D3.JS. Implemented system design 
+            </p>
+        </td>
+
+
+        <td width="16.667%">
+          <h3 align="center">GhibliAPI</h3>
+          <p align="center">
+           <a href="https://reactghibliapi.netlify.app/">
+						<img src="https://user-images.githubusercontent.com/46873861/190859851-da860939-af0f-4464-b1a1-45b1136ac6e8.mp4" alt="a site tracking COVID-19 statistics" height="200px" />
+					</a>
+           
+          </p>
+           <p>
+                        <!--repo -->
+						<a href='https://github.com/meera-ramesh19/react-ghibli-app-8-3-module-three-assessment'>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>
+                        <!--live site -->
+						<a href="https://reactghibliapi.netlify.app/">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+						</a>
+					</p>
+ <p align="center">
+           Using Ghibli API , users can search people , movies, vehicles, species and locations can be hidden/shown & sort by name, climate and terrain
+            </p>
+        </td>
+      </tr>
+      <tr>
+        <td width="16.667%">
+          <h3 align="center"></h3>
+          <p align="center">
+	<a href="https://wttrweatherapp.netlify.app/">
+						<img src="https://user-images.githubusercontent.com/46873861/190863893-03235807-4748-4f3a-adff-9ef93e8a9dae.mp4" alt="Weather App with previous search history and temp convertor widget" height="200px" />
+					</a>
+          
+          </p>
+	<p>
+                        <!--repo -->
+						<a href='ttps://github.com/meera-ramesh19/8-3-weather-app-project'>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>
+                        <!--live site -->
+						<a href="https://wttrweatherapp.netlify.app/">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+						</a>
+					</p>
+  <p align="center">
+              A JS project using wttr API to check the weather around the world.It also has a temperature convertor widget for  users using different metrics. Using local storage the users can view their previous searches and they can remove each search or clear all of them.</p><p> Improvements to be made is to add an hourly button so users can view the weather hour by hour
+            </p>
+        </td>
+         <td width="16.667%">
+          <h3 align="center">Snacks</h3>
+          <p align="center">
+           <a href="https://snacks-log.netlify.app/">
+						<img src="https://user-images.githubusercontent.com/46873861/190863893-03235807-4748-4f3a-adff-9ef93e8a9dae.mp4" alt="full stack app for healthy snacks"/>
+					</a>
+            
+          </p>
+	<p>
+                        <!--repo -->
+						<a href='https://github.com/meera-ramesh19/groupproject-snack-a-log'>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>
+                        <!--live site -->
+						<a href="https://snacks-log.netlify.app/">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+						</a>
+					</p>
+<p align="center">
+             A PERN app to perform CRUD for snacks list. A heart is filled if the snack is healthy, has enough fiber and  enough protein. If not healthy then an outline of the heart is displayed
+            </p>
+        </td>
+        </tr>
+        <tr>
+        <td width="16.667%">
+          <h3 align="center"></h3>
+          <p align="center">
+	<a href="https://react-student-dashboard-app.netlify.app/">
+						<img src="https://user-images.githubusercontent.com/46873861/190865422-67a55a78-43aa-44b4-8702-04ae7326913e.mp4" alt="An app to learn the control flow of react class components" />
+					</a>
+          
+          </p>
+	<p>
+                        <!--repo -->
+						<a href='https://github.com/meera-ramesh19/8-3-react-student-dashboard'>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>
+                        <!--live site -->
+						<a href="https://react-student-dashboard-app.netlify.app/">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+						</a>
+					</p>
+ <p align="center">
+            Creating a student dashboard using class components to learn the flow in react </p>
+            </p>
+        </td>
+       <td width="16.667%">
+          <h3 align="center">Mintbean Hackthon PaintApp</h3>
+          <p align="center">
+<a href="https://paintapp-challenge.netlify.app/mypaintapp/canvas.html">
+						<img src="https://user-images.githubusercontent.com/46873861/190875018-600e1d88-9ef7-4619-9951-39bbcd3ff5b1.mp4" alt="a paintapp for a hackathon challenge" height="200px" />
+					</a>
+          </p>
+<p>
+                        <!--repo -->
+						<a href='https://github.com/meera-ramesh19/mintbean-hackathon"'>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>
+                        <!--live site -->
+						<a href="https://paintapp-challenge.netlify.app/mypaintapp/canvas.html">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+						</a>
+					</p>
+<p align="center">
+            Created a paint app for mintbean community hackathon in 10days using CanvasAPI ,JS, HTML and CSS
+            </p>
+        </td>
+      </tr>
+      </table>
+ </div>
 
 - [https://tuner-sql-api.netlify.app](https://tuner-sql-api.netlify.app) PERN stack App
 - [https://trackerluxe.netlify.app](https://trackerluxe.netlify.app) MERN stack App
