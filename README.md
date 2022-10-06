@@ -51,7 +51,7 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
  <td width="16.667%">
  <h3 align="center">Ghibli App</h3>
  <p align="center">
- <a href='#'><img src="https://user-images.githubusercontent.com/46873861/190859851-da860939-af0f-4464-b1a1-45b1136ac6e8.mp4" alt="React Ghibli API"/>
+ <a href='#'><img src="https://github.com/meera-ramesh19/react-ghibli-app-8-3-module-three-assessment/blob/main/Ghiblimovies.gif" alt="React Ghibli API"/>
    </a>
   <p align="center">
   <strong>React, JS, HTML, CSS (API)</strong>Using Ghibli API , this project displays information about people , movies, vehicles, species and locations where users can hide/show and can sort by name, climate and terrain
@@ -63,7 +63,7 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
   <td width="16.667%">
   <h3 align="center">Weather API</h3>
   <p align="center">
-  <a href='#'><img src="https://user-images.githubusercontent.com/46873861/190863893-03235807-4748-4f3a-adff-9ef93e8a9dae.mp4" alt="Weather App with previous search history and temp convertor widget"/>
+  <a href='#'><img src="https://github.com/meera-ramesh19/8-3-weather-app-project/blob/main/Weatherappwtr.gif" alt="Weather App with previous search history and temp convertor widget"/>
   </a>
   <p align="center">
 <strong>HTML, CSS, JS using API/strong> - A JS project using wttr API to check the weather around the world. It also has a temperature convertor widget for  users using different metrics. Using local storage the users can view their previous searches and they can remove each search or clear all of them.
@@ -73,7 +73,7 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
  <td width="16.667%">
   <h3 align="center">Snacks</h3>
   <p align="center">
-   <a href='#'><img src="https://user-images.githubusercontent.com/46873861/190863893-03235807-4748-4f3a-adff-9ef93e8a9dae.mp4" alt="full stack app for healthy snacks"/></a>
+   <a href='#'><img src="https://github.com/meera-ramesh19/groupproject-snack-a-log/blob/main/snacks.gif" alt="full stack app for healthy snacks"/></a>
   <p align="center">
    <strong>PERN stack</strong> - A PERN app to perform CRUD for snacks< list. A heart is filled if the snack is healthy, has enough fiber and  enough protein. If not healthy then an outline of the heart is displayed
   </p>
@@ -84,7 +84,7 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
   <td width="16.667%">
    <h3 align="center">Student Dashboard</h3>
    <p align="center">
-<a href='#'><img src="https://user-images.githubusercontent.com/46873861/190865422-67a55a78-43aa-44b4-8702-04ae7326913e.mp4" alt="An app to learn the control flow of react class components" /></a>
+<a href='#'><img src="https://github.com/meera-ramesh19/8-3-react-student-dashboard/blob/main/studentdashboard.gif" alt="An app to learn the control flow of react class components" /></a>
            <p align="center"><strong>JavaScript, CSS3, HTML5, React</strong> - Creating a student dashboard using class components to learn the flow in react
             
  </p>
@@ -93,7 +93,7 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 <td width="16.667%">
 <h3 align="center">MintBean Hackathon Paint App</h3>
 <p align="center">
- <a href='#'><img src="https://user-images.githubusercontent.com/46873861/190875018-600e1d88-9ef7-4619-9951-39bbcd3ff5b1.mp4" alt="a paintapp for a hackathon challenge"/>  </a>
+ <a href='#'><img src="https://github.com/meera-ramesh19/mintbean-hackathon/blob/main/paintapp.gif" alt="a paintapp for a hackathon challenge"/>  </a>
 <p align="center">
  <strong>JavaScript, CSS3, HTML5,Canvas API</strong> Created a paint app for mintbean community hackathon in a week
   </p>
