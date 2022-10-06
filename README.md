@@ -42,7 +42,7 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
   <td width="16.667%">
    <h3 align="center">Stock Watch</h3>
    <p align="center">
-  <a href <img src="https://github.com/meera-ramesh19/trackerLuxe/blob/main/Stockwatch.gif" alt="An app that generates charts" /></a>
+  <a href <img src="https://user-images.githubusercontent.com/46873861/190863257-32702d5e-6ce8-4611-a2a3-c5f1e53d914d.mp4" alt="An app that generates charts" /></a>
             <p align="center">
              <strong>Python, D3.JS, PERN stack</strong>A PERN app develped by scraping data using python and performing CRUD to be able to chart the data using D3.JS. Implemented system design
    </p>
