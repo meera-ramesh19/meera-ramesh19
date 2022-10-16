@@ -51,7 +51,7 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
  <td width="16.667%">
  <h3 align="center">Ghibli App</h3>
  <p align="center">
- <a href='#'><img src="https://github.com/meera-ramesh19/react-ghibli-app-8-3-module-three-assessment/blob/main/Ghiblimovies.gif" alt="React Ghibli API"/>
+ <a href='#'><img src="Ghiblimoviesmarkdown](https://user-images.githubusercontent.com/46873861/196060015-74aaccda-cee5-4af2-8629-7567addc8721.gif" alt="React Ghibli API"/>
    </a>
   <p align="center">
   <strong>React, JS, HTML, CSS (API)</strong>Using Ghibli API , this project displays information about people , movies, vehicles, species and locations where users can hide/show and can sort by name, climate and terrain
