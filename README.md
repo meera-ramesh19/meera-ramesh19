@@ -79,7 +79,7 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, Node.js,Express.js, MongoDB, Mongoose, Git, Heroku, Mocha, Jest & JWT Token</strong> - tweetAssist is a web application for  automating tweets and conducting engagement analysis easily and securly!</p>
+        <p><strong>React, JS, HTML, CSS (API)</strong>Using Ghibli API , this project displays information about people , movies, vehicles, species and locations where users can hide/show and can sort by name, climate and terrain</p>
     </td>
   </tr>
 <tr>
@@ -120,7 +120,7 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>PERN stack</strong> - A PERN app to perform CRUD for snacks< list. A heart is filled if the snack is healthy, has enough fiber and  enough protein. If not healthy then an outline of the heart is displayed</p>
+        <p><strong>PERN stack</strong> - A PERN app to perform CRUD for snacks list. A heart is filled if the snack is healthy, has enough fiber and  enough protein. If not healthy then an outline of the heart is displayed</p>
     </td>
   </tr>
   <tr>
@@ -144,7 +144,7 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
         <p><strong>JavaScript, CSS3, HTML5, React</strong> - Creating a student dashboard using class components to learn the flow in react</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Mintbean Hackathon Paint App<</h3>
+      <h3 align="center">Mintbean Hackathon Paint App</h3>
         <br />
         <a target="_blank" href="https://paintapp-challenge.netlify.app/mypaintapp/canvas.html/">
         <p align="center">
