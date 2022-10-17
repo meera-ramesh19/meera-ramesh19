@@ -61,11 +61,6 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
       </p>
 <p><strong>Python, D3.JS, PERN stack</strong>A PERN app develped by scraping data using python and performing CRUD to be able to chart the data using D3.JS. Implemented system design </p>
          </td>
-
-
-
-
-
 <td width="50%" valign="top">
       <h3 align="center">Ghibli App</h3>
         <br />
@@ -87,12 +82,6 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
         <p><strong>HTML, CSS, Node.js,Express.js, MongoDB, Mongoose, Git, Heroku, Mocha, Jest & JWT Token</strong> - tweetAssist is a web application for  automating tweets and conducting engagement analysis easily and securly!</p>
     </td>
   </tr>
-
-
-
-
-
-
 <tr>
     <td width="50%" valign="top">
       <h3 align="center">Weather App</h3>
@@ -111,9 +100,6 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
       </p>
         <p><strong>HTML, CSS, JS using API</strong> - A JS project using wttr API to check the weather around the world. It also has a temperature convertor widget for  users using different metrics. Using local storage the users can view their previous searches and they can remove each search or clear all of them.</p>
     </td>
-
-
-
     <td width="50%" valign="top">
       <h3 align="center">SnacksApp</h3>
         <br />
@@ -133,9 +119,6 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
         <p><strong>PERN stack</strong> - A PERN app to perform CRUD for snacks< list. A heart is filled if the snack is healthy, has enough fiber and  enough protein. If not healthy then an outline of the heart is displayed</p>
     </td>
   </tr>
-
-
-
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Student Dashboard</h3>
@@ -154,9 +137,6 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
       </p>
         <p><strong>JavaScript, CSS3, HTML5, React</strong> - Creating a student dashboard using class components to learn the flow in react</p>
     </td>
-
-
-
     <td width="50%" valign="top">
       <h3 align="center">Mintbean Hackathon Paint App<</h3>
         <br />
