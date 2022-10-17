@@ -46,7 +46,7 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
         <br />
         <a target="_blank" href="https://stockwatchinvesting.netlify.app/">
         <p align="center">
-            <img align="center" src="https://user-images.githubusercontent.com/46873861/196060134-b82749fb-4877-47dd-bdf9-ad53f517d9fb.gif" height="190px" alt="An app that generates charts"/>
+              <a href='#'><img src="https://user-images.githubusercontent.com/46873861/196060134-b82749fb-4877-47dd-bdf9-ad53f517d9fb.gif" alt="An app that generates charts" /></a>
         </p>
         </a>
         <br />
@@ -66,7 +66,7 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
         <br />
         <a target="_blank" href="https://reactghibliapi.netlify.app/">
             <p align="center">
-            <img src="https://user-images.githubusercontent.com/46873861/196060015-74aaccda-cee5-4af2-8629-7567addc8721.gif" height="190px" alt="React Ghibli App"/>
+            <a href='#'><img src="https://user-images.githubusercontent.com/46873861/196060015-74aaccda-cee5-4af2-8629-7567addc8721.gif" alt="React Ghibli          API"/></a>
             </p>
         </a>
         <br />
@@ -87,7 +87,9 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
       <h3 align="center">Weather App</h3>
       <br />
         <a target="_blank" href="https://wttrweatherapp.netlify.app/">
-         <img src="https://user-images.githubusercontent.com/46873861/190863893-03235807-4748-4f3a-adff-9ef93e8a9dae.mp4" alt="Weather App with previous search history and temp convertor widget" height="200px" />
+         <p align="center">
+            <a href='#'><img src="https://github.com/meera-ramesh19/8-3-weather-app-project/blob/main/Weatherappwtr.gif" alt="Weather App with previous search history and temp convertor widget"/></a>
+            </p>
         </a>
       <br />
         <p align="center">
@@ -104,7 +106,9 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
       <h3 align="center">SnacksApp</h3>
         <br />
         <a target="_blank" href="https://snacks-log.netlify.app">
-          <img src="https://user-images.githubusercontent.com/46873861/190863893-03235807-4748-4f3a-adff-9ef93e8a9dae.mp4" alt="full stack app for healthy snacks"/>
+          <p align="center">
+            <a href='#'>  <a href='#'><img src="https://github.com/meera-ramesh19/groupproject-snack-a-log/blob/main/snacks.gif" alt="full stack app for                healthy snacks"/></a>
+          </p>
         </a>
         <br />
         <p align="center">
@@ -124,7 +128,9 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
       <h3 align="center">Student Dashboard</h3>
       <br />
         <a target="_blank" href="ttps://react-student-dashboard-app.netlify.app/">
-       <img src="https://user-images.githubusercontent.com/46873861/190865422-67a55a78-43aa-44b4-8702-04ae7326913e.mp4" alt="An app to learn the control flow of react class components" />
+          <p align="center">
+            <a href='#'><img src="https://github.com/meera-ramesh19/8-3-react-student-dashboard/blob/main/studentdashboard.gif" alt="An app to learn the               control flow of react class components" /></a>
+         </p>
        </a>
       <br />
         <p align="center">
@@ -141,15 +147,17 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
       <h3 align="center">Mintbean Hackathon Paint App<</h3>
         <br />
         <a target="_blank" href="https://paintapp-challenge.netlify.app/mypaintapp/canvas.html/">
-        <img src="https://user-images.githubusercontent.com/46873861/190875018-600e1d88-9ef7-4619-9951-39bbcd3ff5b1.mp4" alt="a paintapp for a hackathon challenge" height="200px" />
-        </a>
+        <p align="center">
+         <a href='#'><img src="https://github.com/meera-ramesh19/mintbean-hackathon/blob/main/paintapp.gif" alt="a paintapp for a hackathon challenge"/>            </a>
+       </p>
+       </a>
         <br />
         <p align="center">
 
   <a href="https://github.com/meera-ramesh19/mintbean-hackathon" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="ttps://paintapp-challenge.netlify.app/mypaintapp/canvas.html" target="_blank">
+  <a href="https://paintapp-challenge.netlify.app/mypaintapp/canvas.html" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
