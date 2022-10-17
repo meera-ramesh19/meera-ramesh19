@@ -37,8 +37,151 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 
 <h3>My Work: </h3>
 
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
 
-<div align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">StockWatch</h3>
+        <br />
+        <a target="_blank" href="https://stockwatchinvesting.netlify.app/">
+        <p align="center">
+            <img align="center" src="https://user-images.githubusercontent.com/46873861/196060134-b82749fb-4877-47dd-bdf9-ad53f517d9fb.gif" height="190px" alt="An app that generates charts"/>
+        </p>
+        </a>
+        <br />
+        <p align="center">
+
+  <a href="ttps://github.com/meera-ramesh19/PersonalProject" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://stockwatchinvesting.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+<p><strong>Python, D3.JS, PERN stack</strong>A PERN app develped by scraping data using python and performing CRUD to be able to chart the data using D3.JS. Implemented system design </p>
+         </td>
+
+
+
+
+
+<td width="50%" valign="top">
+      <h3 align="center">Ghibli App</h3>
+        <br />
+        <a target="_blank" href="https://reactghibliapi.netlify.app/">
+            <p align="center">
+            <img src="https://user-images.githubusercontent.com/46873861/196060015-74aaccda-cee5-4af2-8629-7567addc8721.gif" height="190px" alt="React Ghibli App"/>
+            </p>
+        </a>
+        <br />
+        <p align="center">
+
+  <a href="https://github.com/meera-ramesh19/react-ghibli-app-8-3-module-three-assessment" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://reactghibliapi.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, Node.js,Express.js, MongoDB, Mongoose, Git, Heroku, Mocha, Jest & JWT Token</strong> - tweetAssist is a web application for  automating tweets and conducting engagement analysis easily and securly!</p>
+    </td>
+  </tr>
+
+
+
+
+
+
+<tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Weather App</h3>
+      <br />
+        <a target="_blank" href="https://wttrweatherapp.netlify.app/">
+         <img src="https://user-images.githubusercontent.com/46873861/190863893-03235807-4748-4f3a-adff-9ef93e8a9dae.mp4" alt="Weather App with previous search history and temp convertor widget" height="200px" />
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/meera-ramesh19/8-3-weather-app-project" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://wttrweatherapp.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, JS using API</strong> - A JS project using wttr API to check the weather around the world. It also has a temperature convertor widget for  users using different metrics. Using local storage the users can view their previous searches and they can remove each search or clear all of them.</p>
+    </td>
+
+
+
+    <td width="50%" valign="top">
+      <h3 align="center">SnacksApp</h3>
+        <br />
+        <a target="_blank" href="https://snacks-log.netlify.app">
+          <img src="https://user-images.githubusercontent.com/46873861/190863893-03235807-4748-4f3a-adff-9ef93e8a9dae.mp4" alt="full stack app for healthy snacks"/>
+        </a>
+        <br />
+        <p align="center">
+
+  <a href="https://github.com/meera-ramesh19/groupproject-snack-a-log" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://snacks-log.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>PERN stack</strong> - A PERN app to perform CRUD for snacks< list. A heart is filled if the snack is healthy, has enough fiber and  enough protein. If not healthy then an outline of the heart is displayed</p>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Student Dashboard</h3>
+      <br />
+        <a target="_blank" href="ttps://react-student-dashboard-app.netlify.app/">
+       <img src="https://user-images.githubusercontent.com/46873861/190865422-67a55a78-43aa-44b4-8702-04ae7326913e.mp4" alt="An app to learn the control flow of react class components" />
+       </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/meera-ramesh19/8-3-react-student-dashboard'" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://react-student-dashboard-app.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>JavaScript, CSS3, HTML5, React</strong> - Creating a student dashboard using class components to learn the flow in react</p>
+    </td>
+
+
+
+    <td width="50%" valign="top">
+      <h3 align="center">Mintbean Hackathon Paint App<</h3>
+        <br />
+        <a target="_blank" href="https://paintapp-challenge.netlify.app/mypaintapp/canvas.html/">
+        <img src="https://user-images.githubusercontent.com/46873861/190875018-600e1d88-9ef7-4619-9951-39bbcd3ff5b1.mp4" alt="a paintapp for a hackathon challenge" height="200px" />
+        </a>
+        <br />
+        <p align="center">
+
+  <a href="https://github.com/meera-ramesh19/mintbean-hackathon" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="ttps://paintapp-challenge.netlify.app/mypaintapp/canvas.html" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>JavaScript, CSS3, HTML5,Canvas API</strong> Created a paint app for mintbean community hackathon in a week</p>
+    </td>
+  </tr>
+
+</table>
+
+
+
+<!-- <div align="center">
   <table>
   <tr>
   <td width="16.667%">
@@ -102,8 +245,8 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
   </p>
 </td>
 </tr>
-</table>
- </div>
+</table> 
+ </div>-->
  
 ---
 
@@ -185,16 +328,6 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meera-ramesh19&show_icons=true&locale=en" alt="meera-ramesh19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meera-ramesh19&" alt="meera-ramesh19" /></p>
-
-
-
-
-
-
-
-
-
-
 
 
 
