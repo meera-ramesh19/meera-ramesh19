@@ -20,7 +20,7 @@ I am currently completing the Pursuit Fellowship in an effort to improve my skil
 
 - 👩 I’m looking to work with companies that focus on supporting and lifting women
 - 📖 My portfolio can be found at [https://meeraramesh.dev/](https://meeraramesh.dev/)
-- 🌱 I am currently learning Javascript,nodejs,mongodb
+- 🌱 I am currently working on my project [readinglog.netlify.com](readinglog.netlify.com)
 - 🌳 I love to collaborate with other developers to learn and grow
 - 💻 I’m currently completing the Pursuit fellowship to improve my skills
 - 📄 Check out my resume[http://bit.ly/3KHyULZ](http://bit.ly/3KHyULZ)
